@@ -1,3 +1,3 @@
-load(":fizzbuzz.bzl", "fizzbuzz")
+load(":fizzbuzz.bzl", "fizz_buzz")
 
-fizzbuzz(20)
+fizz_buzz(20)
